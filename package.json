@@ -24,7 +24,7 @@
   "dependencies": {
     "babel-runtime": "^6.9.2",
     "undefsafe": "^1.1.0",
-    "qs": "^1.0.0"
+    "qs": "^6.14.2"
   },
   "peerDependencies": {
     "core-js": "*"
